@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"
     <img src="https://github.com/blackeko/yesitsme/blob/media/logo.png" alt="yesitsme logo">
 </p>
 
