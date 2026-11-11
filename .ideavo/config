@@ -1,0 +1,31 @@
+{
+  "systemSetup": [],
+  "templateName": "custom",
+  "projectDependencies": [],
+  "codeChecks": [],
+  "buildSteps": [],
+  "runStep": [],
+  "deploySteps": [],
+  "cleanupFiles": [
+    "node_modules",
+    "dist",
+    "build",
+    ".next",
+    ".nuxt",
+    ".output",
+    "__pycache__",
+    "*.pyc",
+    ".pytest_cache",
+    ".venv",
+    "venv",
+    "target",
+    "*.log"
+  ],
+  "packageManager": "npm",
+  "envPaths": [
+    {
+      "name": "default",
+      "path": ".env"
+    }
+  ]
+}
